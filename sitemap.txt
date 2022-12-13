@@ -1,2 +1,6 @@
+http://example.com/2022/12/13/hexo-2/
 http://example.com/2022/12/12/hello-world/
 http://example.com/
+http://example.com/tags/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/
+http://example.com/tags/%E6%A8%A1%E5%9E%8B%E5%AD%A6%E4%B9%A0/
+http://example.com/tags/Latex/
