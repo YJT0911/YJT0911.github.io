@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-13T12:13:40.194Z</updated>
+  <updated>2022-12-13T13:09:56.956Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2022/12/13/hexo-2/"/>
     <id>http://example.com/2022/12/13/hexo-2/</id>
     <published>2022-12-13T10:48:58.000Z</published>
-    <updated>2022-12-13T12:13:40.194Z</updated>
+    <updated>2022-12-13T13:09:56.956Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://blog.csdn.net/qq_41261251/article/details/102817673?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522167093284916800184122006%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=167093284916800184122006&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-102817673-null-null.142%5Ev68%5Epc_rank_34_queryrelevant25,201%5Ev4%5Eadd_ask,213%5Ev2%5Et3_esquery_v1&utm_term=typora%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B&spm=1018.2226.3001.4187">Tpora基础语法整理</a></p><p><code>声明：本文章仅用于自己学习，目的是督促自己学习，记录学习内容，以备后时之需，资源一般来源于网络，侵权删</code></p><h1 id="建模学习记录"><a href="#建模学习记录" class="headerlink" title="建模学习记录"></a>建模学习记录</h1><h2 id="1-Latex学习"><a href="#1-Latex学习" class="headerlink" title="1.Latex学习"></a>1.Latex学习</h2><h2 id="2-作图学习"><a href="#2-作图学习" class="headerlink" title="2.作图学习"></a>2.作图学习</h2><h3 id="（1）excel作图"><a href="#（1）excel作图" class="headerlink" title="（1）excel作图"></a>（1）excel作图</h3><h2 id="3-模型记录（学习资料：清风）"><a href="#3-模型记录（学习资料：清风）" class="headerlink" title="3.模型记录（学习资料：清风）"></a>3.模型记录（学习资料：清风）</h2><h3 id="（1）综合评价类模型"><a href="#（1）综合评价类模型" class="headerlink" title="（1）综合评价类模型"></a>（1）综合评价类模型</h3><p>属于哪一类？排名是多少？最优方案是什么？</p><p>解决评价类问题，先给自己提出三个问题</p><p>评价目标是什么？为达到此目标有几种可选方案？评价准则或指标是什么（一般需要去查资料）？</p><p><a href="https://search.chongbuluo.com/">虫部落‐快搜</a>  集齐了各大网站</p><h4 id="层次分析法（AHP）"><a href="#层次分析法（AHP）" class="headerlink" title="层次分析法（AHP）"></a><strong>层次分析法（AHP）</strong></h4><ul><li><p>在比较或者评价某个问题时，我们常常关注某个指标所占的权重，但是一次性考虑所有指标的关系往往考虑的不周全，因此采用“分而治之”的思想，两个指标进行比较，根据两两比较的结果推算权重。</p></li><li><p>判断矩阵</p></li></ul><img src="F:\photos\QQ图片20221213200519.png" alt="QQ图片20221213200519" style="zoom:33%;" /><p>5X5方阵记为A，对应元素为aij。aij表示，与指标j相比，i的重要程度，等于1时说明两个指标重要程度相等。</p><ul><li>一致矩阵</li></ul><p>正常来说aijXaji&#x3D;1，称满足这一条件的矩阵为正互反矩阵。但是有的时候会出现不等于1的矛盾或者不一致现象</p><h2 id="4-存在疑问"><a href="#4-存在疑问" class="headerlink" title="4.存在疑问"></a>4.存在疑问</h2>]]></content>
     
